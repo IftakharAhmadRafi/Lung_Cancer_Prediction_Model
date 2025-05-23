@@ -70,6 +70,15 @@ Smokers vs. Non-smokers cancer frequency
 
 Min/Max ages for male and female patients with cancer
 
+🙋‍♂️ About Me
+I'm a data science enthusiast from Bangladesh 🇧🇩
+📧 Email: iftakharahmadrafi@gmail.com
+🌐 GitHub: (https://github.com/IftakharAhmadRafi)
+
+🤝 Contributions
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repository and submit a pull request.
+
 
 
 
